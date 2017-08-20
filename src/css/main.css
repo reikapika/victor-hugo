@@ -11,4 +11,10 @@ body{
   font-family: sans-serif;
   font-size: 1em;
   text-align: center;
+  background: url("../img/intro-bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
 }
